@@ -1,0 +1,24 @@
+.planta{
+    background-color: rgb(111, 227, 111);
+    color: white;
+}
+.veneno{
+    background-color: violet;
+    color: white;
+}
+.fuego{
+    background-color: orange;
+    color: white;
+}
+.psiquico{
+    background-color: rgb(255, 128, 149);
+    color: white;
+}
+.volador{
+    background-color: grey;
+    color: white;
+}
+.hielo{
+    background-color: rgb(4, 187, 248);
+    color: white;
+}

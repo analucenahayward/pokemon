@@ -8,3 +8,30 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+
+/* Media queris Dispositivos Medium */
+@media screen and (min-width: 768px) and (max-width: 991px){
+    .ajustePosicionSlider{
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+}
+
+/* Media queris Dispositivos Small*/
+@media all and (max-width: 767px){
+    .ajustePosicionSlider{
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    
+}
+
+
+
+
